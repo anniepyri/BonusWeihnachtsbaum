@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{13B669BE-BB05-4DDF-9536-439F39A36129}") = "Weihnachtsbaum", "ConsoleApp1\Weihnachtsbaum.msbuildproj", "{78B8BE8F-44EB-434E-B673-CB7BE92A54AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78B8BE8F-44EB-434E-B673-CB7BE92A54AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78B8BE8F-44EB-434E-B673-CB7BE92A54AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78B8BE8F-44EB-434E-B673-CB7BE92A54AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78B8BE8F-44EB-434E-B673-CB7BE92A54AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00FAD440-D611-4EDD-85AD-9A74F1D7A98E}
+	EndGlobalSection
+EndGlobal
